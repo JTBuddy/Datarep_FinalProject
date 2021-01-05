@@ -1,0 +1,78 @@
+h1{
+    color: white;
+}
+
+.card{
+    margin-top: 2%;
+}
+
+.form{
+    /* width: 25%; */
+    margin-left: 35%;
+    margin-right: 35%;
+}
+
+.App{
+    background-image: url('../css/New\ Background.png');
+}
+
+.form-group{
+    border-radius: 40px;
+    background-color: white;
+    padding: 40px;
+}
+
+/* Main Page */
+.jumbotron{
+    background-image: url(../Images/RMBanner.jpg);
+    background-size: cover;
+    height: 550px;
+}
+
+.container{
+    float: left;
+    text-align: left;
+}
+
+.jumbotronText{
+    text-shadow:5px 5px 10px black;
+    color:white;
+}
+
+.display-4{
+    text-shadow:5px 5px 10px black;
+}
+
+/* Footer */
+.mainDivFooter{
+    width: 100%;
+    margin-top: 30px;
+}
+
+.col{
+    color: white;
+    width: 33%;
+}
+
+.footerText{
+    color: white;
+    padding: 20px;
+}
+
+.bottomDivFooter{
+    background-color: #0e52c1;
+    height: 50px;
+}
+
+.bottomDivFooterText{
+    color: white;
+}
+
+/* Form */
+.form{
+    padding: 25px;
+}
+
+.FormText{
+    color: black;
+}
